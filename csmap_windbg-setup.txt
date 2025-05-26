@@ -1,0 +1,6 @@
+.load C:\Users\aroras6\windbg\windbg-extensions-main\extension\3rdParty\pykd.dll
+.nvload C:\Users\aroras6\windbg\windbg-extensions-natvis-main\all-in-one.natvis
+.cmdtree C:\Users\aroras6\windbg\windbg-extensions-cmdtree-main\main.txt
+.extpath+ C:\Users\aroras6\windbg\windbg-extensions-main\extension\3rdParty
+.load C:\Users\aroras6\windbg\Mex\x64\mex.dll
+!py -g -m ec
